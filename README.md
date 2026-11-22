@@ -136,7 +136,7 @@ Developed as a team project for the ELTE Data for Good Hackathon.
 
 **Slim Mekki:** Python-based data preparation, exploratory analysis, risk-indicator implementation, and visualization work represented in this repository.
 
-**Other team contributors:** [Add names and agreed contributions.]
+**Marcell Bakacs:** Preparation of the presentations, writing the code interpretation.
 
 ## Author
 
