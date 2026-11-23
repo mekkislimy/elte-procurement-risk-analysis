@@ -165,9 +165,6 @@ Developed as a two-person team project for the ELTE Data for Good Hackathon.
 - Documented the analytical methodology and findings.
 - Contributed to communicating the project's results.
 
-### Recognition
-**Special Prize for Methodological Innovation** — ELTE Data for Good Hackathon, 2026.
-
 
 ## Author
 
