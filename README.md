@@ -27,7 +27,9 @@ The project focused on identifying potential risks in Hungarian public procureme
 
 ### Certificate of Achievement
 
-![Certificate of Achievement](docs/certificate_of_achievement.jpg)
+<img src="docs/certificate_of_achievement.jpg"
+     alt="Hackathon Certificate of Achievement"
+     width="650">
 
 
 ## Technologies
