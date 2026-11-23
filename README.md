@@ -15,6 +15,21 @@ The analysis investigates how public procurement activity relates to private equ
 
 The objective is to identify procurement records that warrant further investigation, rather than to determine whether corruption or wrongdoing has occurred.
 
+## Recognition
+
+**ELTE Data for Good Hackathon | March 11, 2026**
+
+**Special Prize for Methodological Innovation**
+
+Our team received recognition for outstanding performance at the Transparency Hackathon, organized by ELTE Data for Good in collaboration with Transparency International Hungary.
+
+The project focused on identifying potential risks in Hungarian public procurement through data integration, exploratory data analysis, feature engineering, and indicator-based risk scoring.
+
+### Certificate of Achievement
+
+![Certificate of Achievement](docs/certificate_of_achievement.jpg)
+
+
 ## Technologies
 
 **Language:** Python
