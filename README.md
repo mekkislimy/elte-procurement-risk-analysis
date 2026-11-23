@@ -147,13 +147,27 @@ The analysis uses data supplied for the hackathon. The original data provider, u
 
 The analysis can be reproduced using the provided workbook and compatible Python dependencies, subject to these data-access conditions.
 
+
 ## Team and Contributions
 
-Developed as a team project for the ELTE Data for Good Hackathon.
+Developed as a two-person team project for the ELTE Data for Good Hackathon.
 
-**Slim Mekki:** Python-based data preparation, exploratory analysis, risk-indicator implementation, and visualization work represented in this repository.
+### Slim Mekki — Python Development & Data Analysis
+- Developed the complete Python analysis notebook.
+- Implemented data cleaning, preprocessing, and dataset integration.
+- Designed and implemented the indicator-based risk scoring methodology.
+- Conducted exploratory data analysis and generated visualizations.
+- Analyzed procurement risk patterns and ownership relationships.
 
-**Marcell Bakacs:** Preparation of the presentations, writing the code interpretation.
+### Marcell Bakacs — Documentation & Presentation
+- Prepared and designed the project presentation.
+- Wrote the interpretation and explanation of the Python code.
+- Documented the analytical methodology and findings.
+- Contributed to communicating the project's results.
+
+### Recognition
+**Special Prize for Methodological Innovation** — ELTE Data for Good Hackathon, 2026.
+
 
 ## Author
 
